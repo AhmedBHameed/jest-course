@@ -1,2 +1,3 @@
 # jest-course
-Jest learning curve course
+
+Jest is a testing framework from facebook.

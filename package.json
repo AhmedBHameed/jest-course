@@ -1,0 +1,25 @@
+{
+  "name": "jest-course",
+  "version": "1.0.0",
+  "description": "Jest learning curve course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedBHameed/jest-course.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "AhmedBHameed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedBHameed/jest-course/issues"
+  },
+  "homepage": "https://github.com/AhmedBHameed/jest-course#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
